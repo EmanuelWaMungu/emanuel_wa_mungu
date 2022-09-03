@@ -1,4 +1,5 @@
-https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW
+
+![Employee data](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW "Employee Data title")
 # Emanuel Wa Mungu
 ```diff
 + ( Backend Developer ) ( DevOps ) ( Cyber Security !! Pentest ) ( Content Writer )
@@ -11,3 +12,6 @@ https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltw
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelWaMungu&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
+https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW
