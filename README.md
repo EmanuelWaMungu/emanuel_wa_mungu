@@ -1,3 +1,4 @@
+https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW
 # Emanuel Wa Mungu
 ```diff
 + ( Backend Developer ) ( DevOps ) ( Cyber Security !! Pentest ) ( Content Writer )
