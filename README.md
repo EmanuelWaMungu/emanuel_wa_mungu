@@ -1,5 +1,6 @@
-
+<div style="width:60px ; height:60px">
 ![Employee data](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif "Employee Data title")
+</div>
 # Emanuel Wa Mungu
 ```diff
 + ( Backend Developer ) ( DevOps ) ( Cyber Security !! Pentest ) ( Content Writer )
