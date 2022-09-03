@@ -1,6 +1,6 @@
 # Emanuel Wa Mungu
 ```diff
-+ ( Backend Developer ) ( DevOps ) ( Cyber Security !! Pentest )
++ ( Backend Developer ) ( DevOps ) ( Cyber Security !! Pentest ) ( Content Writer )
 
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
